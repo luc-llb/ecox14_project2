@@ -1,0 +1,1 @@
+user-animelist-dataset=https://www.kaggle.com/datasets/ramazanturann/user-animelist-dataset
